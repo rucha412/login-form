@@ -119,6 +119,10 @@
               "devServerTarget": "login-form:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
     }

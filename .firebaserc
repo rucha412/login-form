@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-auth-6bea8": {
+      "hosting": {
+        "login-form": [
+          "fir-auth-6bea8"
+        ]
+      }
+    }
+  }
+}
